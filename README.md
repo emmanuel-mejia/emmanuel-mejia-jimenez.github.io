@@ -1,6 +1,6 @@
 # emmanuel-mejia.github.io
 
-Bienvenidos a mi sitio Web en GitHub 👨‍💻😃
+Hi, welcome to my GitHub 👨‍💻😃
 
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">Skilled Software Engineer with 16+ years of experience providing support and solutions to Financial stakeholders.</h3>
