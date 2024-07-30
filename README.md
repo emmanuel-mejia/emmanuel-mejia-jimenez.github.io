@@ -2,7 +2,6 @@
 
 <h1 align="center"> <tt>> Hello world</tt> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </h1>
 
-
 <p align="center">
 <a href="https://twitter.com/ndroyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndroyt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel-mejia-b4068030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-mejia-b4068030" height="30" width="40" /></a>
