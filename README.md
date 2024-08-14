@@ -25,6 +25,7 @@
     <li>📫 How to reach me emmanuel.mejia.jimenez@gmail.com</li>
 </ul>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25" height="25"/> </a> 
